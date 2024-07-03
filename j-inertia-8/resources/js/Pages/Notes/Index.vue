@@ -17,7 +17,7 @@ import Welcome from '@/Components/Welcome.vue';
                     <div class="md-col-span-1">
                         <div class="p3-4 sm:px0">
                             <h3>Listado de notas</h3>
-                            <p class="text-sm text-gray-600">Toma el resuistro y ejecuta cualquier función (ver, editar o eliminar)</p>
+                            <p class="text-sm text-gray-600">Toma el resuistro y ejecuta cualquier función</p>
                         </div>
                     </div>
 
